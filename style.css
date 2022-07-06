@@ -1,0 +1,321 @@
+body {
+    font-family: 'Mingzat', sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+
+.child-one img {
+    width: 100%;
+    height: 90vh;
+}
+
+#child-one {
+    text-align: center;
+    margin-top: -450px;
+}
+
+.child-one-h1 {
+    font-size: 3em;
+    color: white;
+    line-height: 20px;
+
+}
+
+.child-one-p {
+    color: white;
+}
+
+.margin-bottom-p {
+    margin-bottom: 40px;
+}
+
+.child-one-link {
+    text-decoration: none;
+    padding: 20px 40px;
+    color: white;
+    background-color: #FF5959;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.section-one {
+    margin-bottom: 15%;
+}
+
+.child-two {
+    text-align: center;
+}
+
+.child-two h1 {
+    font-size: 3em;
+    margin-bottom: -2px;
+}
+
+.title-color {
+    color: gray;
+    font-size: 17px;
+    line-height: 8px;
+}
+
+.parent-div-two {
+    display: flex;
+    text-align: center;
+    margin-left: 260px;
+}
+
+.parent-div-two p {
+    padding: 40px;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 2px 3px 6px grey;
+    background-color: #80808052;
+    color: rgb(8 8 8 / 39%);
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 25%;
+}
+
+.section-two {
+    color: gray;
+
+}
+
+.child-two-h1 {
+    color: black;
+}
+
+.amount {
+    text-align: center;
+    font-size: 18px;
+    border-bottom: 1px solid gray;
+    width: 828px;
+    margin-left: 270px;
+    margin-bottom: 5%;
+    margin-top: 4%;
+}
+
+.title {
+    margin-left: -12px;
+}
+
+.section-two-link {
+    padding: 14px 23px;
+    background-color: #FF5959;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+#section-link {
+    text-align: center;
+    margin-bottom: 150px;
+}
+
+#color {
+    background-color: #FFEEEE;
+    border: 3px solid #FF5959;
+    color: #FF5959;
+}
+
+.third-div {
+    text-align: center;
+}
+
+.third-div h1 {
+    font-size: 45px;
+    margin-bottom: -15px;
+}
+
+.gray {
+    color: gray;
+    font-size: 15px;
+    line-height: 15px;
+}
+
+.parent-three {
+    color: gray;
+    display: flex;
+    margin-top: 5%;
+
+}
+
+.three-div {
+    width: 24%;
+    height: 5%;
+    box-shadow: 0px 0px 10px gray;
+
+    padding-top: 55px;
+    margin-left: 15px;
+    margin-right: 15px;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 5%;
+}
+
+#justify {
+    text-align: justify;
+    line-height: 20px;
+}
+
+
+#margin-left {
+    margin-left: 95px;
+    background-color: #EDF5F6;
+}
+
+.div-color {
+    background-color: #FFEEEE;
+}
+
+.div-color2 {
+    background-color: #FFF4D6;
+}
+
+.four-div {
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.four-div h1 {
+    font-size: 45px;
+    margin-bottom: -10px;
+}
+
+.div-h1 {
+    color: black;
+}
+
+.four-div p {
+    color: gray;
+    font-size: 15px;
+    line-height: 10px;
+}
+
+footer {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+footer p {
+    font-family: 'Roboto', sans-serif;
+}
+
+footer h1 {
+    color: #ff0000e0;
+}
+
+.input {
+    width: 60%;
+    text-align: center;
+    padding: 15px;
+    background-color: #FFF4D6;
+    margin-left: 250px;
+    border-radius: 10px;
+    margin-bottom: 5%;
+}
+
+.input input {
+    padding: 10px;
+    padding-right: 30px;
+    margin-top: 55px;
+    margin-bottom: 55px;
+    padding-left: 20px
+}
+
+.type-email {
+    background-color: #D9D9D9;
+    border-radius: 5px 0px 0px 5px;
+    border: none;
+    font-weight: bold;
+}
+
+.type-button {
+    border-radius: 0px 5px 5px 0px;
+    border: none;
+    background-color: #FF5959;
+    font-weight: bold;
+    color: white;
+    margin-left: -8px;
+    cursor: pointer;
+}
+
+.five-div {
+    display: flex;
+    margin: 5%;
+}
+
+.five-img img {
+    width: 70%;
+    border-radius: 10px;
+    margin-left: 30%;
+}
+
+.child-five {
+    margin-bottom: 5%;
+}
+
+.child-five p {
+    color: gray;
+    line-height: 20px;
+}
+
+.edition {
+    margin-left: 28%;
+}
+
+.some {
+    line-height: 35px;
+    text-align: center;
+    font-size: 35px;
+}
+
+.five-link {
+    text-decoration: none;
+    padding: 13px 30px;
+    background-color: #FF5959;
+    border-radius: 10px;
+    font-weight: bold;
+    color: white;
+    margin-left: 50%;
+}
+
+.some-edit {
+    margin-bottom: 5%;
+}
+
+.six-div {
+    display: flex;
+}
+
+.six-edit img {
+    margin-left: 11%;
+}
+
+.six-h1 {
+    margin-bottom: -10px;
+    font-size: 35px;
+}
+
+.six-p {
+    color: gray;
+    line-height: 20px;
+}
+
+.p-six {
+    margin-bottom: 5%;
+}
+
+#or-edit {
+    margin-left: 30%;
+}
+
+.some-margin {
+    margin-bottom: -20px;
+
+}
